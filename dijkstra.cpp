@@ -1,5 +1,4 @@
 //Nicholas Guidice
-//CS 375 Project 6 "Dijkstra's Algorithm"
 
 #include <iostream>
 #include <vector>
